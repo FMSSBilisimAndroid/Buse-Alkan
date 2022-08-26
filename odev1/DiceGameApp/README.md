@@ -3,7 +3,7 @@
 
 ## Outputs
 <p>
-  <img height="450" width="260" src="[https://raw.githubusercontent.com/busealkan/DiceGameApp/main/screen/diceRoll.gif](https://raw.githubusercontent.com/FMSSBilisimAndroid/Buse-Alkan/main/odev1/DiceGameApp/screen/diceRoll.gif)" alt="SS1"/>
+  <img height="450" width="260" src="https://raw.githubusercontent.com/FMSSBilisimAndroid/Buse-Alkan/main/odev1/DiceGameApp/screen/diceRoll.gif" alt="SS1"/>
 </p>
 
 ## License
