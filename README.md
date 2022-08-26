@@ -1,5 +1,5 @@
 ## Namespace Nedir?
-<p>XML bir etiketleme dilidir. Farklı XML uygulamaları aynı isimli elementler içerebilirler. Bu çakışmayı önlemek için namespace (isim uzayı) ve prefix (ön ek) kullanılır. Namespace tanımlanırken URI (Uniform Resource Identifier) namespace ismi olarak verilir. En yaygın kullanılanı URL (Uniform Resource Locator), ve URN (Uniform Resource Name) dir. Bu sayede namespace’lerin benzersiz olması sağlanır.</p>
+<p>XML bir etiketleme dilidir. Farklı XML dosyaları aynı isimli elementler içerebilirler. Bu çakışmayı önlemek için namespace (isim uzayı) ve prefix (ön ek) kullanılır. Namespace tanımlanırken URI (Uniform Resource Identifier) namespace ismi olarak verilir. En yaygın kullanılanı URL (Uniform Resource Locator), ve URN (Uniform Resource Name) dir. Bu sayede namespace’lerin benzersiz olması sağlanır.</p>
 
 <li>Namespace’ler sadece tanıtıcı etiketlerdir, adres işaret etmezler.</li>
 <li>Prefix’ler etiketlerin başında kullanılarak aynı isimdeki etiketlerin hangi namespace’e ait olduğunu gösterir ve çakışmasını engeller.</li>
